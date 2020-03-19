@@ -1,5 +1,14 @@
 # 2020_flight_goggles_research
 
+## Requirement
+```
+1. ceros-solver
+
+2. Build VINS-Fusion
+
+* reference : https://github.com/HKUST-Aerial-Robotics/VINS-Fusion
+```
+
 ## Excution
 ```
 * For joystick
