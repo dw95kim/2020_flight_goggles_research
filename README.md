@@ -6,6 +6,8 @@
 
 2. Build VINS-Fusion
 
+3. ROS-kinetic
+
 * reference : https://github.com/HKUST-Aerial-Robotics/VINS-Fusion
 ```
 
