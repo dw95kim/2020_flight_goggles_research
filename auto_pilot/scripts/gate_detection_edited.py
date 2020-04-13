@@ -35,8 +35,8 @@ gate_marker_seq = [
     [15,0,0],
     [23,1,0],
     [6,1,0]]
-img_center_x = int(720 / 2)
-img_center_y = int(540 / 2)
+img_center_x = int(720 / 2) # 720
+img_center_y = int(540 / 2) # 540
 
 def swap(s1, s2):
     temp = s1.copy()

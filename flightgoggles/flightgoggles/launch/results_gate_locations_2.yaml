@@ -1,0 +1,56 @@
+Gate0:
+  Location: [17.632705355420878, 3.483832315773059, 6.452914114162012]
+  Name: Gate10
+  Success: 'True'
+  Time: 14.082296173
+Gate1:
+  Location: [15.738526548041781, 37.91639105598081, 6.972981640082726]
+  Name: Gate21
+  Success: 'True'
+  Time: 18.518755926
+Gate10:
+  Location: [-10.491620871029776, 30.541524752110135, 3.3311175899152237]
+  Name: Gate6
+  Success: 'True'
+  Time: 45.582306253
+Gate2:
+  Location: [0.6772801193812795, 27.408948490292488, 3.0707776286023702]
+  Name: Gate2
+  Success: 'True'
+  Time: 22.929174004
+Gate3:
+  Location: [1.0725141737551116, 11.385688338687807, 2.220591096727151]
+  Name: Gate13
+  Success: 'True'
+  Time: 25.252091414
+Gate4:
+  Location: [-7.603285829373833, -12.064747952934601, 3.672303209132759]
+  Name: Gate9
+  Success: 'True'
+  Time: 29.210426014
+Gate5:
+  Location: [-8.5193379180784, -28.860778508339834, 2.6964192392425903]
+  Name: Gate14
+  Success: 'True'
+  Time: 31.71876015
+Gate6:
+  Location: [-1.2685337213837802, -34.83716508470435, 2.2375795938785448]
+  Name: Gate1
+  Success: 'True'
+  Time: 33.472927378
+Gate7:
+  Location: [7.329000179562048, -30.179138049064075, 2.0767060773174166]
+  Name: Gate22
+  Success: 'True'
+  Time: 35.476053019
+Gate8:
+  Location: [7.423421957368529, -12.456166334292199, 3.1916814850483406]
+  Name: Gate15
+  Success: 'True'
+  Time: 38.240637237
+Gate9:
+  Location: [-10.918117092194565, 6.226421107836939, 2.6358642993095684]
+  Name: Gate23
+  Success: 'True'
+  Time: 42.351055219
+Result: Challenge Completed

@@ -46,6 +46,7 @@ class robot():
         rospy.init_node('robot_controller', anonymous=True)
         self.local_deg_pub = rospy.Publisher('/uav/input/rateThrust', RateThrust, queue_size=10)
         self.reset_pub = rospy.Publisher('/uav/collision', Empty, queue_size=1)
+
         self.tf_pos_sub = rospy.Subscriber('/tf', TFMessage, self.tf_callback)
         self.joy_sub = rospy.Subscriber('/control_nodes/joy', Joy, self.joy_callback)
 

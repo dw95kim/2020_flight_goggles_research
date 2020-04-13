@@ -47,7 +47,7 @@ flightgoggles_pid:
     int_bound_yaw: 1000.0
 
 flightgoggles_ros_bridge:
-   image_width: 720
-   image_height: 540
+   image_width: 720 #720
+   image_height: 540 #540
    baseline: 0.32
    collider_radius: 0.15
